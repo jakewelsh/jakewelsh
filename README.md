@@ -22,14 +22,11 @@ I have experience in C++, Python, Java, HTML, CSS, JavaScript, COBOL, and IBM As
 - ***Areas of Interest***: Full-stack development, Data Science, Cybersecurity, Machine learning, Game development, Mobile development
 ---
 ## 💼 Professional Experience
-- ***TKO Home Services*** (Summers 2022-2024)
-• Developed and maintained a scheduling spreadsheet to optimize
-technician routes (Excel + logic formulas/scripts)
-• Helped evaluate software tools to streamline customer invoicing or
-appointments
-• Assisted with basic website updates or setup of social media
-presence to improve online visibility
-• Digitized paper records to support future database implementation
+- ***TKO Home Services*** *Summers 2022-2024*
+- Developed and maintained a route-optimization spreadsheet using Excel and formulas/scripts  
+- Helped evaluate tools to streamline customer invoicing and scheduling  
+- Assisted with website updates and social media setup to improve online visibility  
+- Digitized paper records in preparation for future database integratio
 ---
 ## 📬 Let's Connect!
 - 📫 Email: [your.email@example.com](mailto:your.email@example.com)  
