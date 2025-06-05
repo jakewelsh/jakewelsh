@@ -12,7 +12,7 @@ I have experience in C++, Python, Java, HTML, CSS, JavaScript, COBOL, and IBM As
   Flask web app that extracts structured data from resumes and tracks applications by status.
 
 - **Personal Portfolio Website**  
-  Built with HTML, CSS, and JS, deployed with GitHub Pages to showcase my work and experience.  
+  Built with HTML & CSS deployed with GitHub Pages to showcase my work and experience.  
   🔗 [View here](https://jakewelsh.github.io/personal_portfolio)
 
 ---
