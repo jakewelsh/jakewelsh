@@ -1,11 +1,9 @@
 ## 👋 Welcome to Jake's GitHub!
 ---
 ## 🧑‍💼 About Me
----
 Hi! I'm Jake Welsh, a recent graduate in ***Computer Science*** from ***Northern Illinois University***. I originally started college as a nursing student, but I quickly realized that my true passion was in tech. After making the switch, I never looked back. Now I'm focused on building software, solving problems, and continuing to grow as a developer. I have experience in C++, Python, Java, HTML, CSS, JavaScript, COBOL, and IBM Assembly Language.
 
 ## 🚧 Current Projects
----
 - **Resume Parser + Job Tracker (IN PROGRESS)**  
   Flask web app that extracts structured data from resumes and tracks applications by status.
 
