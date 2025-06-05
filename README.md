@@ -1,7 +1,11 @@
 ## 👋 Welcome to Jake's GitHub!
 ---
 ## 🧑‍💼 About Me
-Hi! I'm Jake Welsh, a recent graduate in ***Computer Science*** from ***Northern Illinois University***. I originally started college as a nursing student, but I quickly realized that my true passion was in tech. After making the switch, I never looked back. Now I'm focused on building software, solving problems, and continuing to grow as a developer. I have experience in C++, Python, Java, HTML, CSS, JavaScript, COBOL, and IBM Assembly Language.
+Hi! I'm Jake Welsh, a recent graduate in ***Computer Science*** from ***Northern Illinois University***. I originally started college as a nursing student, but I quickly realized that my true passion was in tech. After making the switch, I never looked back. Now I'm focused on building software, solving problems, and continuing to grow as a developer. 
+
+I'm currently preparing to begin my ***Master of Science in Cybersecurity** at ***Northern Illinois University*** in Fall 2025.
+
+I have experience in C++, Python, Java, HTML, CSS, JavaScript, COBOL, and IBM Assembly Language.
 
 ## 🚧 Current Projects
 - **Resume Parser + Job Tracker (IN PROGRESS)**  
@@ -14,7 +18,7 @@ Hi! I'm Jake Welsh, a recent graduate in ***Computer Science*** from ***Northern
 ---
 ## 🛠️ Skills & Interests
 - ***Programming Languages***: Python, Java, C++, HTML, CSS, JavaScript, COBOL, IBM Assembly Language
-- ****Technologies***: Numpy, Matplotlib, Polars, Pandas, Flask
+- ***Technologies***: Numpy, Matplotlib, Polars, Pandas, Flask
 - ***Areas of Interest**: Full-stack development, Data Science, Cybersecurity, Machine learning, Game development, Mobile development
 ---
 ## 💼 Professional Experience
