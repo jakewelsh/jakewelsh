@@ -19,7 +19,7 @@ I have experience in C++, Python, Java, HTML, CSS, JavaScript, COBOL, and IBM As
 ## 🛠️ Skills & Interests
 - ***Programming Languages***: Python, Java, C++, HTML, CSS, JavaScript, COBOL, IBM Assembly Language
 - ***Technologies***: Numpy, Matplotlib, Polars, Pandas, Flask
-- ***Areas of Interest**: Full-stack development, Data Science, Cybersecurity, Machine learning, Game development, Mobile development
+- ***Areas of Interest***: Full-stack development, Data Science, Cybersecurity, Machine learning, Game development, Mobile development
 ---
 ## 💼 Professional Experience
 - ***TKO Home Services*** (Summers 2022-2024)
