@@ -29,7 +29,7 @@ I have experience in C++, Python, Java, HTML, CSS, JavaScript, COBOL, and IBM As
 - Digitized paper records in preparation for future database integratio
 ---
 ## 📬 Let's Connect!
-- 📫 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 📫 Email: jakewelsh917@gmail.com
 - 💻 GitHub: [@jakewelsh](https://github.com/jakewelsh)  
 - 🌐 Portfolio: [jakewelsh.github.io/personal_portfolio](https://jakewelsh.github.io/personal_portfolio)  
 - LinkedIn: https://www.linkedin.com/in/jake-welsh-/
